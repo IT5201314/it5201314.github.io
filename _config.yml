@@ -1,10 +1,10 @@
 # Site settings
-title: Fe Blog  #你博客的标题
-SEOTitle: Fe的博客 | Fe Blog  #显示在浏览器上搜索的时候显示的标题
+title: ZhuGuangYi Blog  #你博客的标题
+SEOTitle: SiHuo的博客 | SiHuo Blog  #显示在浏览器上搜索的时候显示的标题
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
 email: fe@fedemo.top
-description: "Hey，我是Fe，一只JAVA程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
-keyword: "Fe的博客,fedemo,GitHub,Fe,博客,Blog,JAVA" #关键词
+description: "Hey，我是ZhuGuangYi，一个JAVA程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
+keyword: "SiHuo的博客,fedemo,GitHub,SiHuo,博客,Blog,JAVA" #关键词
 url: "https://fedemo.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
@@ -25,8 +25,8 @@ sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's u
 # SNS settings社交账号
 RSS: false
 # weibo_username:
-zhihu_username:    fedemo
-github_username:    FeDemo
+zhihu_username:    SiHuo
+github_username:   SiHuo
 # facebook_username:
 twitter_username:   Fedemo10
 # coding_username: fedemo
@@ -66,8 +66,8 @@ gitalk:
   clientID: '75ef4c0ecfb2cd85a8f0'    #生成的clientID
   clientSecret: 'b51aa6b7351f3b3b7a0940714af8489fddb5f905'   #同上
   repo: img_gitalk    #仓库名称
-  owner: FeDemo    #github用户名
-  admin: FeDemo
+  owner: IT5201314    #github用户名
+  admin: it5201314
 
 
 

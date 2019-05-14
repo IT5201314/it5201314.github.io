@@ -3,10 +3,10 @@ layout:     post
 title:      oracle服务笔记
 subtitle:   oracle serve
 date:       2018-7-07
-author:     Fe
+author:     SiHuo
 header-img: img/post-bg-rwd.jpg
 keywords_post:  "oracle服务笔记,oracle,开启关闭Oracle服务脚本,bat"
-catalog: true
+catalog: false
 tags:
     - oracle
 ---

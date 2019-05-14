@@ -4,11 +4,11 @@ SEOTitle: SiHuo的博客 | SiHuo Blog  #显示在浏览器上搜索的时候显�
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
 email: fe@fedemo.top
 description: "Hey，我是ZhuGuangYi，一个JAVA程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
-keyword: "SiHuo的博客,fedemo,GitHub,SiHuo,博客,Blog,JAVA" #关键词
-url: "https://fedemo.top"          # your host, for absolute URL
+keyword: "SiHuo的博客,it5201314,GitHub,SiHuo,博客,Blog,JAVA" #关键词
+url: "https://it5201314.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
-author: Fe
+author: S
 
 # 是否托管在Coding_Pages
 Coding_Pages: true
@@ -28,8 +28,8 @@ RSS: false
 zhihu_username:    SiHuo
 github_username:   SiHuo
 # facebook_username:
-twitter_username:   Fedemo10
-# coding_username: fedemo
+twitter_username:   ZhuGuangYi
+# coding_username: SiHuo
 
 
 
@@ -99,14 +99,8 @@ service-worker: true
 
 # Friends好友链接
 friends: [
-    {
-        title: "Fe Blog",
-        href: "https://fedemo.top/"
-    },{
-        title: "interview",
-        href: "https://fedemo.github.io/interview/"
-    },{
-        title: "Fe Coding",
-        href: "https://coding.net/u/fedemo/project"
+   {
+        title: "SiHuo Coding",
+        href: "https://it5201314.github.io/"
     }
 ]
